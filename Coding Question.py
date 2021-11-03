@@ -5,18 +5,6 @@ Coding Question
 
 # my_numbers = [5, 6, 9, 3, -2, 7, -4, 5]
 # my_sum = 12
-# result = []
-#
-# def Two_Number_Sum(my_numbers):
-#     for i in range(len(my_numbers)):
-#         j = 0
-#         while j < len(my_numbers):
-#             if my_numbers[i] + my_numbers[j] == my_sum and i != j:
-#                 result.append([(my_numbers[i]), (my_numbers[j])])
-#             j += 1
-#         return result
-#
-# print(Two_Number_Sum(my_numbers))
 
 my_numbers = [5, 6, 9, 3, -2, 7, -4, 5]
 my_sum = 12
